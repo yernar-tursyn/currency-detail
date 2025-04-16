@@ -165,12 +165,6 @@ export default function CurrencyDetail({ currency }: CurrencyDetailProps) {
               ))}
             </tbody>
           </table>
-
-          <div className="mt-4">
-            <a href="#" className="text-red-600 flex items-center text-sm">
-              Подробнее
-            </a>
-          </div>
         </div>
 
         <div className="bg-white p-4 rounded-lg border border-gray-200">
